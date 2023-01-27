@@ -1,5 +1,7 @@
 # Power BI Survey
 
+![powerbi](Images/logo.png)
+
 ## Overview of the Analysis:
 
 Context:
